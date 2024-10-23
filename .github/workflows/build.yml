@@ -12,5 +12,5 @@ jobs:
 
         - name: get game version
           run: >-
-            ls -al
+            Get-ChildItem -Force
 
